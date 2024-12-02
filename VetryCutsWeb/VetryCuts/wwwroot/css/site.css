@@ -1,0 +1,108 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+header {
+    padding: 30px 10px;
+    background-color: black;
+    height: 90px;
+}
+
+ .logo{
+    width: auto;
+    cursor: pointer;
+ }
+
+.nav__links {
+    text-decoration: none;
+}
+
+a:link{
+  text-decoration: none;
+    color: #ebd036;
+}
+
+ .nav__links li{
+     display: inline-block;
+     padding: 0px 20px;
+ }
+
+.cta img {
+    width: 56px;
+    height: 47.84px;
+}
+
+.nav__links li a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: all 0.3s ease 0s;
+}
+
+    .nav__links li a:hover {
+        color: #9b860f;
+    }
+
+@font-face {
+    font-family: "Akira Expanded";
+    src: url("../resources/fonts/" format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+.landinpage-text {
+    font-family: "Akira Expanded", sans-serif;
+    font-size: 4rem;
+}
+
+.appointment-container {
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    width: 750px;
+    background-color: #fff9b6;
+    padding: 20px;
+    padding-left: 30px;
+}
+
+.appointment-item ol {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+
+li {
+    list-style-type: none;
+}
+
+.appointmentstate-container {
+}
+//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+    
+

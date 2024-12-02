@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VetriCuts", "VetriCuts.csproj", "{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BCA9D1E-CB3D-4EB2-8FA3-23BAFF02C17C}
+	EndGlobalSection
+EndGlobal

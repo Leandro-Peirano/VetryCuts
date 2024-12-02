@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\data\\vetricutsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:data\\vetricutsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\migrations\\20241127113908_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:migrations\\20241127113908_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\views\\appointment\\appointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:views\\appointment\\appointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\models\\monthinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:models\\monthinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|c:\\proyectos de github\\vetrycuts\\vetrycutsweb\\vetrycuts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{365DDE45-52B1-4070-A9C8-AD40CC0E21AD}|VetriCuts.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VetriCutsDbContext.cs",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Data\\VetriCutsDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\VetriCutsDbContext.cs",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Data\\VetriCutsDbContext.cs",
+              "RelativeToolTip": "Data\\VetriCutsDbContext.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAiwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:26:09.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241127113908_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Migrations\\20241127113908_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241127113908_InitialCreate.cs",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Migrations\\20241127113908_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241127113908_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:20:54.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T14:14:57.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:01:28.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointments.cshtml",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Views\\Appointment\\Appointments.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointment\\Appointments.cshtml",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Views\\Appointment\\Appointments.cshtml",
+              "RelativeToolTip": "Views\\Appointment\\Appointments.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T13:47:17.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:22:50.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:51:09.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T10:48:16.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-26T22:44:06.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T02:55:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MonthInfo.cs",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Models\\MonthInfo.cs",
+              "RelativeDocumentMoniker": "Models\\MonthInfo.cs",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Models\\MonthInfo.cs",
+              "RelativeToolTip": "Models\\MonthInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:24:45.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T11:52:32.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Proyectos de GitHub\\VetryCuts\\VetryCutsWeb\\VetryCuts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T23:03:30.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

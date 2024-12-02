@@ -1,0 +1,67 @@
+﻿@using System.Linq;
+@using System.Collections.Generic;
+@using VetryCuts.Models;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    .active {
+        background-color: rgb(245 158 11);
+        border: 1px #f6e688 solid;
+        color : #fff;
+        transition: all 0.3s ease 0s;
+    }
+
+    .active:hover{
+            background-color: #d5b810;
+    }
+
+    .day:hover{
+        background-color: rgb(251 191 36);
+        color:a black;
+    }
+</style>
+
+<script defer>
+    // Esperamos a que el DOM esté completamente cargado
+    document.addEventListener('DOMContentLoaded', () => {
+        const buttonList = document.getElementById('calendar');
+        buttonList.addEventListener('click', (event) => {
+
+            // Verificamos que el elemento clickeado sea un botón
+            if (event.target.tagName === 'BUTTON') {
+                // Removemos la clase 'active' de todos los botones
+                const buttons = buttonList.querySelectorAll('button');
+                buttons.forEach(button => button.classList.remove('active'));
+
+                // Agregamos la clase 'active' al botón clickeado
+                event.target.classList.add('active');
+            }
+        });
+    });
+</script>
+
+<div class="w-full bg-opacity-25 bg-black rounded-xl flex justify-content-between pt-16">
+    <div class="bg-red-400 style="width: 40%;">
+        <ol id="calendar" class="grid grid-cols-7 grid-rows-1 p-8 pt-5" style="transition: all 2s ease-in-out">
+            @for (int i = 1; i <= 31; i++)
+            {
+                <li>
+                    <button class="bg-amber-300 w-14 h-14 my-2.5 rounded-1 day">@i</button>
+                </li>
+            }
+        </ol>
+    </div>
+    <div class="bg-green-400" style="width: 30%;">
+        <h2 class="text-center font-bolt"> Reservar Turno </h2>
+        <select class="" id="typeOfUser" name="typeOfUser" required>
+            @foreach(var item in ViewBag.Data.Barbers)
+            {
+                <option value="@item.Name">@item.Name</option>
+            })
+
+        </select>
+    </div>
+</div>

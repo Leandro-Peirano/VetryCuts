@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <link  rel="stylesheet"  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.amber.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script href="./main.js" async></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Vetri Cuts</title>
+  </head>
+  <body>
+    
+
+    <nav class="bg-black h-20 w-full flex-row ">
+      <a href="home.html" class="flex py-2"><img src="resources/images/LetrasLogo.png" alt="Vetri Cuts"></a>
+      <ul class="flex flex-row place-content-around w-full">
+        <li class="flex py-2 px-4 nav-item"><a href="home.html">Inicio</a></li>
+        <li class="flex py-2 px-4 nav-item"><a href="#">Servicios</a></li>
+        <li class="flex py-2 px-4 nav-item"><a href="#">turnos</a></li>
+        <li class="flex py-2 px-4 nav-item"><a href="#">Contacto</a></li>
+      </ul>
+      <a href="signIn.html" class="cta bg-black border-0"><button style="border: none;"> <img src="/src/resources/images/UserIcon.png" alt="user" /></button></a>
+    </nav>
+
+    
+    <main class="px-10 copperplate-font">
+    
+      <h3 class="text-center text-xl copperplate-font text-black">Turnos disponibles</h3>
+      <p class="text-center pb-4 text-black">Seleccione un horario para reservar su turno</p>
+
+      <div class="container flex justify-arround items-center px-10 alkalami-font ">
+        <div class=" rounded-3xl appointment-container mr-12">
+          <ol class="w-full text-center text-black">
+            <li class="copperplate-font">DO</li>
+            <li class="copperplate-font">LU</li>
+            <li class="copperplate-font">MA</li>
+            <li class="copperplate-font">MI</li>
+            <li class="copperplate-font">JU</li>
+            <li class="copperplate-font">VI</li>
+            <li class="copperplate-font">DO</li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            <li><button class="w-14 h-14 rounded-2xl bg-amber-300 text-white"></button></li>
+            </ol> 
+        </div>
+  
+        <div class="appointmentstate-container rounded-3xl text-center p-4 px-12 text-black alkalami-font">
+          <form class="text-xs">
+            <h2 class="pb-4 text-black copperplate-font text-xl">Reservar Turno</h2>
+            <select class="py-1.5 dark-inputColor rounded-full text-black border-0 mb-4 " name="barber" id="cbx_barber"> <option value="" label="Seleccione un barbero"> </option></option></select>
+            <select class="py-1.5 dark-inputColor rounded-full text-black border-0 mb-4 " name="hour" id="cbx_hour"></select>
+            <select class="py-1.5 dark-inputColor rounded-full text-black border-0 mb-8 " name="service" id="cbx_service"></select>
+            <br>
+            <button class="submit-button rounded-full" type="submit" style="width: 150px; font-size:medium;"> Pedir Turno </button>
+          </form>
+        </div>
+      </div>
+      
+    </main>
+
+  </body>
+</html>

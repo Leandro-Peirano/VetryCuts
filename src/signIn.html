@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <link  rel="stylesheet"  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.amber.min.css">
+    <link href="./output.css" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script async src="main.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Vetri Cuts</title>
+  </head>
+
+
+
+  <body class="absolute" style="height: 100%;">
+
+    <nav class="bg-black h-20 w-full flex-row ">
+      <a href="home.html" class="flex py-2"><img src="resources/images/LetrasLogo.png" alt="Vetri Cuts"></a>
+      <ul class="flex flex-row place-content-around w-full">
+        <li class="nav-item flex py-2 px-4"><a href="home.html">Inicio</a></li>
+        <li class="nav-item flex py-2 px-4"><a href="#">Servicios</a></li>
+        <li class="nav-item flex py-2 px-4"><a href="appointment.html">turnos</a></li>
+        <li class="nav-item flex py-2 px-4"><a href="#">Contacto</a></li>
+      </ul>
+      <a href="signIn.html" class="cta bg-black border-0"><button style="border: none;"> <img src="/src/resources/images/UserIcon.png" alt="user" /></button></a>
+    </nav>
+
+    <main class="container">
+      
+        <div class="signIn-container">
+            <h1 class="text-6xl absolute top-32 left-8 font-bold landinpage-text text-black"> 
+                Iniciar sesión
+            </h1>
+            <form class="flex flex-col justify-center items-center">
+                <input type="text" class="w-1/2 h-10 rounded-2xl border-2 border-black" placeholder="Usuario">
+                <input type="password" class="w-1/2 h-10 rounded-2xl border-2 border-black" placeholder="Contraseña">
+                <button class="w-1/2 h-10 rounded-2xl bg-amber-300 text-white">Iniciar sesión</button>
+            </form>
+        </div>
+
+    </main>
+  </body>
+</html>
